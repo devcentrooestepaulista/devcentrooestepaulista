@@ -59,4 +59,4 @@ estará atuando nas atividades do Dev Centro Oeste Paulista.
  * Outros
 
 
-* [em desenvolcimento]
+[em desenvolcimento]
